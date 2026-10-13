@@ -1,0 +1,9 @@
+# Core - needed by shape_prompt_ai (image fitting, tagger, generative nets)
+numpy>=1.22
+Pillow>=9.0
+
+# Needed only for `python EMLII.py --web` (the chat UI). Terminal mode needs nothing extra.
+flask>=2.0
+
+# Optional - only needed for `image_to_prompt.py --wd14 <model.onnx> <tags.csv>`
+# onnxruntime

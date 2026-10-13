@@ -1,0 +1,12 @@
+{
+  "hair colour": ["black_hair", "brown_hair", "blonde_hair", "red_hair", "pink_hair", "blue_hair", "purple_hair", "white_hair", "grey_hair", "green_hair", "multicolored_hair"],
+  "hair style": ["long_hair", "short_hair", "medium_hair", "ponytail", "twintails", "braid", "bun", "bangs", "hair_over_one_eye", "messy_hair", "bob_cut", "side_ponytail"],
+  "eyes": ["black_eyes", "brown_eyes", "blue_eyes", "red_eyes", "green_eyes", "purple_eyes", "yellow_eyes", "pink_eyes", "closed_eyes", "heterochromia"],
+  "expression": ["smile", "blush", "open_mouth", "closed_mouth", "serious", "angry", "crying", "looking_at_viewer", "looking_away", "looking_back", "parted_lips"],
+  "clothes": ["kimono", "dress", "black_dress", "school_uniform", "shirt", "jacket", "hoodie", "armor", "cloak", "robe", "skirt", "shorts", "gloves", "scarf", "hat", "bikini", "swimsuit", "tattoo", "japanese_clothes", "long_sleeves", "sleeveless"],
+  "accessories": ["glasses", "earrings", "necklace", "hair_ornament", "hair_flower", "hair_ribbon", "hairpin", "choker", "jewelry", "nail_polish", "lipstick", "makeup"],
+  "pose": ["upper_body", "portrait", "full_body", "from_behind", "from_side", "from_above", "from_below", "hand_up", "hand_on_own_chest", "hand_on_own_face", "arms_up", "sitting", "standing", "lying", "close-up"],
+  "background": ["simple_background", "white_background", "black_background", "red_background", "purple_background", "blue_background", "pink_background", "grey_background", "outdoors", "indoors", "beach", "sky", "night", "city", "forest"],
+  "style": ["monochrome", "colorful", "sketch", "lineart", "watercolor", "realistic", "flat_color", "painterly", "detailed"],
+  "subject": ["1girl", "2girls", "1boy", "2boys", "solo", "multiple_girls", "multiple_boys", "no_humans"]
+}
